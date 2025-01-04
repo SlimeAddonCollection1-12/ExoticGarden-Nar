@@ -1,0 +1,11 @@
+long-grass-drops:
+  SEEDS: true
+world-blacklist:
+- world_nether
+- world_the_end
+chances:
+  TREE: 1
+  BUSH: 1
+options:
+  auto-update: false
+  item-heads: true
